@@ -1,0 +1,19 @@
+{
+  "name": "notification-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chandu",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4",
+    "mongooses": "^1.0.0",
+    "node-cron": "^3.0.2",
+    "nodemailer": "^6.9.0",
+    "save": "^2.9.0"
+  }
+}
